@@ -1,4 +1,4 @@
-database:
-  host: local.com
-  port: 2200
-  username: spago
+host: local.com
+port: 2200
+username: spago
+password: good
